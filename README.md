@@ -1,4 +1,4 @@
-### Hi there 👋
+### About RectraCoin ($RTC) 👋
 
 <!--
 **rectracoin/rectracoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,5 +11,5 @@ We are based on the community and for the community, backed by a strong developm
 - 💬 Ask me about RectraCoin($RTC)
 - 📫 How to reach me: @rectracoin on twitter
 - 😄 Join Community : https://t.me/rectracoin
-
+- Official Website: https://www.rectracoin.com
 -->
